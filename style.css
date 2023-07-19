@@ -1,0 +1,40 @@
+body{
+    background-color: lightblue;
+    color: black;
+    margin: 0px;
+}
+
+.header{
+    font-family: Merriweather;
+    background-color: black ;
+}
+h1{
+    color: white;
+    margin: 0px;
+    padding: 20px;
+    text-align: center;
+}
+.payment-form{
+    height: 400px;
+}
+
+.atag-payment{
+    text-decoration: none;
+    color: inherit;
+}
+h2{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
+.footer{
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+.projects,.skills,.about,.contact-us{
+    background-color: white;    
+}
